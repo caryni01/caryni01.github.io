@@ -1,0 +1,43 @@
+---
+title: "Academic/Professional Profile"
+---
+
+
+# Education Background
+__University of Columbia in the City of New York, Mailman school of Public Health__  
+__Master of Science in Biostatistics (MS)__    _New York, NY 09/2022 - now_  
+Relevant course: Biostatistical methods, Statistical Learning, Data Science, 
+Statistical Genetics, Epidemiology
+
+__University of Illinois at Urbana Champaign__                                                        	
+__Bachelor of Science in Molecular and Cellular Biology (BS)__    
+_Urbana, IL 08/2017 – 05/2021_  
+Cumulative GPA: 3.92/4.00
+Graduation Honor: Cum Laude with academic distinction 
+
+__University of Melbourne__
+_Melbourne, Australia 02/2019 – 07/2019_   
+Undergraduate exchange program (Supported by University of Illinois)   
+Grades included in cumulative GPA                                         
+
+# Research Experience
+__Zhejiang University, School of Medicine, Laboratory of Genetic and Genomic Medicine__
+__Research Assistant__    _Hangzhou, China 07/2020 – 10/2020_
+                                                      
+•	Performed the experiments of gene cloning with the molecular techniques and equipment independently and in collaboration with the primary investigator in obtaining clinical data from subjects
+•	Present relevant experimental data with interpretation to the research group and engaged in weekly group presentation and journal sharing
+
+Published journal: AMPK-mediated phosphorylation enhances the auto-inhibition of TBC1D17 to promote Rab5- dependent glucose uptake. Cell Death & Differentiation (2021) DOI: 10.1038/s41418-021-00809-9
+
+# Work Experience
+__WIE-biotech Co. Ltd.__
+_Clinical data analyst Intern_    _Hangzhou, China 07/2022 – 08/2022_
+
+•	Utilized biostatistical method to analyze laboratory and clinical data from the experiments in molecular biology, and communicated with researchers in the lab for supplement, correction, or specification of data during cleaning process
+•	Use scientific graphing software GraphPad Prism, ImageJ, and Photoshop to draw experimental figures used in research papers with the tidy data analyzed 
+•	Compose the drawn tables and figures and set the layout based on the requirements of academic journals
+
+# Other Skills
+Computer Skills: Proficiency in data analysis with Excel, SQL, R and Python libraries (ex. Pandas, Matplotlib, Seaborn), fundamental skills of Java programming
+Language: Mandarin, English, Japanese (functional)
+

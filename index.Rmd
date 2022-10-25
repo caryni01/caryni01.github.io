@@ -1,0 +1,12 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+# This is a landing page of my website
+
+<img src="images/IMG_2058.jpg" style="width:75%">

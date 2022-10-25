@@ -1,0 +1,16 @@
+name: "Personal webpage"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Academic/Professional Profile"
+      href: profile.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<cn2604@cumc.columbia.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/<caryni01>/
+output:
+  html_document:
+    theme: cosmo

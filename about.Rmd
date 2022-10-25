@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+### About this site
+
+This site is a personal webpage first established in P8105. The R packages used are tidyverse, p8105.datasets, flexdashboard, and plotly. 
+The set up of the personal site is still at beginning stage. 
