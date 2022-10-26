@@ -1,0 +1,63 @@
+---
+title: "NY NOAA Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+```
+```{r, include=FALSE}
+data("ny_noaa")
+noaa_df = ny_noaa %>% 
+  separate(date, into = c("year", "month", "day"), sep = '-') %>% 
+  rename(c("prcp_mm" = "prcp", "snow_mm" = "snow", "snwd_mm" = "snwd")) %>% 
+  mutate(
+    tmax = as.numeric(tmax),
+    tmin = as.numeric(tmin),
+    year = as.numeric(year)
+  ) %>% 
+  filter(
+    id %in% c("US1NYAB0001", "USW00094794", "USC00300343", "USC00309047", "USC00304174", "USW00004725",
+              "USC00303152", "USW00094728", "USC00309270", "USC00305840")
+  ) %>% 
+  na.omit()
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+  
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+noaa_df %>% 
+  filter(prcp_mm > 0 & prcp_mm < 150) %>% 
+  mutate(id = fct_reorder(id, prcp_mm)) %>% 
+  plot_ly(y = ~prcp_mm, color = ~id, type = "box", colors = "viridis")
+```
+
+### Chart C
+
+```{r}
+noaa_df %>% 
+  count(id) %>% 
+  mutate(id = fct_reorder(id, n)) %>% 
+  plot_ly(x = ~id, y = ~n, color = ~id, type = "bar", colors = "viridis")
+```
+
