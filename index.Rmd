@@ -16,3 +16,10 @@ __This is a landing page of Chenyao Ni (Cary)__
 
 This website is built to provide my personal information including academic and professional experience, personal interests.   
 The links to my email address and GitHub page are also included. 
+
+# Sports
+
+Have been a fan of Bayern München since 2010, really want to pay a visit to Allianz Arena one day.
+<center>
+<img src="images/stadium.jpeg" style="width=20">
+\center
