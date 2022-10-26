@@ -34,8 +34,12 @@ Column {data-width=650}
 
 ### Chart A
 
-```{r}
-
+```{r, include=FALSE}
+noaa_df %>%
+  mutate(text_label = str_c("Station id: ", id)) %>% 
+  plot_ly(
+    x = ~tmin, y = ~tmax, type = "scatter", mode = "markers", 
+    color = ~year, text = ~text_label, alpha = 0.5)
   
 ```
 
@@ -44,7 +48,7 @@ Column {data-width=350}
 
 ### Chart B
 
-```{r}
+```{r, include=FALSE}
 
 noaa_df %>% 
   filter(prcp_mm > 0 & prcp_mm < 150) %>% 
@@ -54,7 +58,7 @@ noaa_df %>%
 
 ### Chart C
 
-```{r}
+```{r, include=FALSE}
 noaa_df %>% 
   count(id) %>% 
   mutate(id = fct_reorder(id, n)) %>% 
