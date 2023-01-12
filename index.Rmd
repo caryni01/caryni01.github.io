@@ -9,10 +9,11 @@ output:
 <font size="4">
 __This is a landing page of Chenyao Ni (Cary)__
 </font>
+
 <center>
 <img src="images/IMG_2058.jpg" style="width=10">
-\center
 
+</center>
 Nice to see you.
 My name is Chenyao Ni. I’m currently a first-year student pursuing MS degree in Biostatistics (Public Health Data Science Track) at Columbia University, Mailman School of Public Health. After getting my BS degree in Molecular and Cellular biology at University of Illinois at Urbana Champaign, I find my interest in the analysis and application of those data from the lab and I believe my experience as a practitioner of those experiments could provide me with a better instinct when interpreting the data in the field of health science. 
 
@@ -31,4 +32,5 @@ I have been a football (aka.soccer) fan and my favorite clubs are Bayern Münche
 
 <center>
 <img src="images/tactics.jpeg" style="width=20">
-\center
+
+</center>
