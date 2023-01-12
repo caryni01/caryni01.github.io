@@ -6,8 +6,8 @@ title: "Academic/Professional Profile"
 # Education Background
 __University of Columbia in the City of New York, Mailman school of Public Health__  
 __Master of Science in Biostatistics (MS)__    _New York, NY 09/2022 - now_  
-Relevant course: Biostatistical methods, Statistical Learning, Data Science, 
-Statistical Genetics, Epidemiology
+Relevant course: Biostatistical methods, Statistical Learning, Data Science with R/SAS, 
+Epidemiology
 
 __University of Illinois at Urbana Champaign__                                                        	
 __Bachelor of Science in Molecular and Cellular Biology (BS)__    
