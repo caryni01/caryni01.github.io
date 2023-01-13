@@ -9,6 +9,8 @@ navbar:
       href: profile.html
     - icon: fa-envelope fa-lg
       href: mailto:<cn2604@cumc.columbia.com>
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/chenyao-ni-180053262/
     - icon: fa-github fa-lg
       href: http://github.com/caryni01/
 output:

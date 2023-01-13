@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-size: 40px'>Hello</style> <span style='font-size: 20px'>Everyone</style>"
+title: "<span style='font-size: 40px'> Hello <span style='font-size: 20px'> Everyone"
 output: 
   html_document:
     toc: true
@@ -14,7 +14,8 @@ __This is a landing page of Chenyao Ni (Cary)__
 <img src="images/IMG_2058.jpg" style="width=10">
 
 </center>
-Nice to see you.
+
+# Nice to see you.
 My name is Chenyao Ni. I’m currently a first-year student pursuing MS degree in Biostatistics (Public Health Data Science Track) at Columbia University, Mailman School of Public Health. After getting my BS degree in Molecular and Cellular biology at University of Illinois at Urbana Champaign, I find my interest in the analysis and application of those data from the lab and I believe my experience as a practitioner of those experiments could provide me with a better instinct when interpreting the data in the field of health science. 
 
 # Relevent Projects
@@ -28,7 +29,7 @@ For other projects, please check my github page [Here](https://github.com/caryni
 
 # Personal interests and future goals
 
-I have been a football (aka.soccer) fan and my favorite clubs are Bayern München and Arsenal FC since 2010. I regard being a data analyst or strategy analyst for a football club as my long-term goal in ten years because I believe knowing the field that generates data is as important as knowing how to deal with data. 
+I have been a football (aka.soccer) fan and my favorite clubs are FC Bayern München and Arsenal FC since 2010. I regard being a data analyst or strategy analyst for a football club as my long-term goal in ten years because I believe knowing the field that generates data is as important as knowing how to deal with data. 
 
 <center>
 <img src="images/tactics.jpeg" style="width=20">
